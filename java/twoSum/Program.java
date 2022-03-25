@@ -1,3 +1,5 @@
+package java.twoSum;
+
 import java.util.*;
 
 class Program {
